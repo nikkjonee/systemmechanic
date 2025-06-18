@@ -11,10 +11,12 @@ How to Contact System Mechanic Customer Service?
     :width: 400px
     :align: center
     :target: https://getchatsupport.live/
+____________________________________________
 
 System Mechanic by iolo Technologies is a popular PC optimization software used by millions to clean, repair, and boost computer performance. While the software is designed to be user-friendly and efficient, sometimes users may need assistance — and that's where System Mechanic customer service plays a crucial role.
 
 Why System Mechanic Customer Service Matters
+_________
 Whether you're dealing with installation issues, license activation problems, or questions about performance tools, System Mechanic customer service is your go-to support resource. Prompt and knowledgeable customer service ensures that users can resolve technical issues quickly and get the most out of their software.
 
 How to Contact System Mechanic Customer Service
