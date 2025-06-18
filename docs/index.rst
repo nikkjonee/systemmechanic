@@ -6,7 +6,7 @@ How to Contact System Mechanic Customer Service?
    :caption: Contents:
 
 
-.. image:: service.png
+.. image:: service1.png
     :alt: My Project Logo
     :width: 400px
     :align: center
